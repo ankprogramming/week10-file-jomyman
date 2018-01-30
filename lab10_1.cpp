@@ -13,3 +13,4 @@ int main() {
     else cout << "Unable to open file";
     return 0;
 }
+// ทำตามเงื่อนไข แล้วแสดงข้อความ
